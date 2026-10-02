@@ -2,9 +2,12 @@
   
 # Hi there, I'm Ritanshu Prasad! 👋
   
-### 🧠 Machine Learning | 👁️ Computer Vision | 🐍 Python Developer
+<a href="https://github.com/Ritanshu-Prasad">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Computer+Vision+Developer;Python+Programmer;Generative+AI+Explorer" alt="Typing SVG" />
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritanshu-prasad) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ritanshuprasad) 
 
 </div>
 
@@ -43,7 +46,7 @@ I specialize in **Machine Learning and Artificial Intelligence**, with a strong 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritanshu-Prasad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritanshu-Prasad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook" />
 </div>
 
 
