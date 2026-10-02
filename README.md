@@ -49,9 +49,3 @@ I specialize in **Machine Learning and Artificial Intelligence**, with a strong 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritanshu-Prasad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook" />
 </div>
 
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ritanshu-Prasad&icon=0&color=0" />
-  </a>
-</div>
