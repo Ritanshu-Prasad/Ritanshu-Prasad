@@ -46,14 +46,7 @@ I specialize in **Machine Learning and Artificial Intelligence**, with a strong 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritanshu-Prasad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-<br/>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ritanshu-Prasad&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
----
 <div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Ritanshu-Prasad&icon=0&color=0" />
