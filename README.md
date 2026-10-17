@@ -41,11 +41,10 @@ I specialize in **Machine Learning and Artificial Intelligence**, with a strong 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritanshu-Prasad&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritanshu-Prasad&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritanshu-Prasad&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritanshu-Prasad&theme=dark&hide_border=false&v=2" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritanshu-Prasad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook" />
 </div>
-
